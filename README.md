@@ -12,13 +12,5 @@
   <img src="https://img.shields.io/badge/Prompt%20Engineering-7C3AED?style=for-the-badge&logoColor=white"/>
 </p>
 
-
-
-### ⚡ My Current Arc
-
-- 🐍 Building with Python
-- 🤖 Exploring AI & LLMs
-- 🧠 Learning prompt engineering
-- 🛠️ Turning problem statements into projects
 - 🧪 Experimenting with new ideas
 - 🚀 Shipping, breaking, fixing, repeating
