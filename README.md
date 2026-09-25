@@ -2,7 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Manav%20Bhut&fontSize=50&fontAlignY=35&animation=twinkling" />
 </p>
 
-
+<p>
+  <img src="https://skillicons.dev/icons?i=python,github,vscode," />
+</p>
 
 <h3 align="center">⚡ currently cooking with</h3>
 
@@ -16,6 +18,4 @@
 - 🚀 Shipping, breaking, fixing, repeating
 
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,github,vscode," />
-</p>
+
