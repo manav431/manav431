@@ -3,7 +3,15 @@
 </p>
 
 
-████████████████████░░  90% Coding
-██████████████████░░░░  80% Debugging
-██████████████░░░░░░░░  60% Sleep
-██████████████████████  100% Curiosity
+```bash
+$ whoami
+manav
+
+$ status
+building...
+
+$ mood
+☕ + 🎧 + 💻
+
+$ mission
+turn ideas into reality
