@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Manav%20Patel&fontSize=50&fontAlignY=35&animation=twinkling" />
 </p>
