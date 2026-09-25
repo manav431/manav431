@@ -17,5 +17,5 @@
 
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,github,vscode,AI" />
 </p>
