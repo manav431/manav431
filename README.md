@@ -4,6 +4,3 @@
 
 
 
-Replace `YOUR_USERNAME` with your GitHub username.
-
-If you want something **more Gen-Z / hacker / cyberpunk-looking**, I can make you a darker version with **matrix GIFs, terminal animations, pixel stickers, and a custom ASCII header**.
