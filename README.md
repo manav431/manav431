@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,github,vscode," />
+  <img src="https://skillicons.dev/icons?i=github,vscode," />
 </p>
 
 <h3 align="center">⚡ currently cooking with</h3>
